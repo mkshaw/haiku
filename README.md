@@ -1,11 +1,12 @@
 # haiku
 
-There is an account/ </br>
-Called accidental 5 7/
+There is an account </br>
+Called accidental 5 7 </br>
 5. Let's copy it.
 
 <a href="https://twitter.com/accidental575?lang=en" target="_blank">Accidental 575</a> is a Twitter feed of cultivated accidental haikus; a bot finds (/found, it seems to have been retired) accidental haikus in Tweets, and the bot owner Tweeted their favourites. This process involves scraping and then analyzing syllable structure. The goal is to re-create the haiku bot, to get experience with (a) scraping, (b) NLP/computational linguistics, and (c) whimsy.
 
+## Project Steps
 Step 1: download random data from Twitter API (or data from a subset of celebrities, maybe 300 most-followed accounts?): https://developer.twitter.com/en/docs
 
 Step 2: explore what data the API returns
